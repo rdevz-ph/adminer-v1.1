@@ -1,0 +1,32 @@
+{
+	"manifest_version": 3,
+	"name": "B312-939 Admin Tool",
+	"description": "Band, Antenna, and DNS Settings without Admin Access. Originally by Chris Laconsay, updated with DNS features by RDevz PH.",
+	"version": "1.1",
+	"icons": {
+		"16": "img/logo-16.png",
+		"48": "img/logo-48.png",
+		"128": "img/logo-128.png"
+	},
+	"action": {
+		"default_icon": {
+			"19": "img/logo-19.png",
+			"38": "img/logo-48.png"
+		},
+		"default_popup": "popup.html"
+	},
+	"host_permissions": [
+		"http://192.168.254.254/",
+		"http://192.168.254.254/api/*"
+	],
+	"web_accessible_resources": [
+		{
+			"resources": [
+				"img/icon128.png"
+			],
+			"matches": [
+				"<all_urls>"
+			]
+		}
+	]
+}
