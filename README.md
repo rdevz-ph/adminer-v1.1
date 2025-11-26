@@ -13,6 +13,16 @@ Extended and improved by **RDevz PH**.
 
 ---
 
+> ⚠️ **Project Status (IMPORTANT)**  
+>  
+> This is the **final version** of the B312-939 Admin Tool.  
+> **No future updates, bug fixes, or new features** will be released.  
+>  
+> The project is considered **complete**, stable for its purpose,  
+> and will remain available **as-is**.
+
+---
+
 ## 📌 New in This Update (by RDevz PH)
 
 ### ✅ Added DHCP / DNS Configuration
@@ -77,7 +87,7 @@ Ang tool na ito ay para lang sa **band selection**, **antenna control**, at **DN
 - Madalas ang Globe maintenance kaya may pansamantalang signal loss  
 - Minsan bumabalik agad, minsan kailangan ng modem reboot/reset  
 - Gamitin lamang ang tool kung naiintindihan mo ang risk  
-- Basahin ang `license.txt` bago gamitin
+- Basahin ang [`LICENSE`](LICENSE) bago gamitin.
 
 ---
 
